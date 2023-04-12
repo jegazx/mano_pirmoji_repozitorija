@@ -1,0 +1,6 @@
+print('Sveiki, apskaiciuosime kurie bus metai kai jums sukaks 100 metu')
+vardas = input("Iveskite savo varda: ")
+amzius = int(input("Labai malonu dabar iveskite savo amziu: " ))
+amzius_100 = 2023 + (100 - amzius)
+pranesimas = ("Dekui {} Jums sueis 100 metu {}".format(vardas, amzius_100))
+print(pranesimas)
