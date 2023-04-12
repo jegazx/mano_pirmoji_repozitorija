@@ -1,1 +1,2 @@
 print("Labas")
+print("nesigauna")
