@@ -1,3 +1,9 @@
-ugis = input("Iveskite savo ugi centimetrais: ")
-ugis_m = int(ugis)/100
-print(f"jusu ugis yra {ugis} cm arba {ugis_m:1f}m")
+suma = 0
+
+while True:
+    skaicius = int(input('Įveskite skaičių: '))
+    if skaicius < 0:
+        break
+    suma += skaicius
+
+print(suma)
