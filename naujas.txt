@@ -1,0 +1,6 @@
+Sukurkite failą "eilutes.txt" ir įrašykite į jį šias eilutes:
+Saulėlydis žėri žemę švelniai.
+Vakare vėjas šnypščia medžius.
+Vėjas nerimsta, šnypščia ir švilpia.
+Papildykite failą "eilutes.txt" nauja eilute, kuri yra jūsų vardas ir pavardė.
+Atidarykite "eilutes.txt" failą, perskaitykite jo turinį ir atspausdinkite visas eilutes, kuriose yra žodis "vėjas".

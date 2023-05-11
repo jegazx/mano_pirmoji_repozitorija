@@ -1,0 +1,1 @@
+{"0": {"name": "qweasd", "contacts": "asdq", "salary": "1234", "department": "traktoristas"}, "1": {"name": "qwerty", "contacts": "123456", "salary": "5555", "department": "traktorininkas"}}
